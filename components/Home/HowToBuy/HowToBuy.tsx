@@ -28,7 +28,7 @@ const HowToBuy = () => {
                     <h1 className='font-[Freckle_Face] text-4xl text-lime-300 uppercase'>Step 1</h1>
                     <h1 className='font-[Freckle_Face] text-2xl uppercase'>Get a Crypto Wallet</h1>
 
-                    <p className='text-xl'>First, you'll need a crypto wallet that supports decentralized exchanges (DEX). We recommend: <br /> ✅ MetaMask (Browser & Mobile) <br /> ✅ Trust Wallet (Mobile)</p>
+                    <p className='text-xl'>First, you&apos;ll need a crypto wallet that supports decentralized exchanges (DEX). We recommend: <br /> ✅ MetaMask (Browser & Mobile) <br /> ✅ Trust Wallet (Mobile)</p>
                 </div>
             </div>
 
@@ -46,7 +46,7 @@ const HowToBuy = () => {
                     <h1 className='font-[Freckle_Face] text-4xl text-lime-300 uppercase'>Step 2</h1>
                     <h1 className='font-[Freckle_Face] text-2xl uppercase'>Add Funds (BNB or ETH)</h1>
 
-                    <p className='text-xl'>KERMFAM is available on [insert blockchain here], so make sure you have BNB (for Binance Smart Chain) or ETH (for Ethereum) in your wallet to swap for KERMFAM.
+                    <p className='text-xl'>KERMFAM is available on Solana, so make sure you have BNB (for Binance Smart Chain) or ETH (for Ethereum) in your wallet to swap for KERMFAM.
                     You can buy BNB/ETH on: <br /> 🔹 Binance <br /> 🔹 Coinbase <br /> 🔹 KuCoin <br /> Then transfer it to your wallet.</p>
                 </div>
             </div>

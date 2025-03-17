@@ -4,7 +4,6 @@
 import React from 'react'
 import { motion } from "framer-motion";
 import { itemVariants } from "../Utils/MotionVariant"; // Import item animation
-import MotionWrapper from "../MotionWrapper/MotionWrapper"; // Import reusable wrapper
 import Image from "next/image";
 
 

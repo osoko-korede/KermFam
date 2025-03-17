@@ -39,7 +39,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${dmsans.className}  antialiased`} 
+        className={`${dmsans.className} ${freckleface.className}  antialiased`} 
       >
         {children}
       </body>
